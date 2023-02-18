@@ -10,3 +10,4 @@ conda install ipywidgets
 
 conda install transformers
 conda install datasets
+conda install scikit-learn
